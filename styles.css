@@ -36,3 +36,7 @@ button {
     font-size: 15px;
     background-color: #865B9A;
 }
+
+button:hover {
+    background-color: hotpink;
+}
